@@ -2,7 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "I will become a software developer" <<
+    cout << "My name is Vaibhav";
+    cout << "I started coding today";
+    cout << "This is my first C++ coding journey" <<
 endl;
     return 0;
 }
