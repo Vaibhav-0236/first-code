@@ -5,7 +5,7 @@ int main() {
     string name;
     cout << "Enter your Name";
     cin >> name;
-    cout << "Welcome to CSE journey" << name << "🚀" << 
+    cout << "Welcome to CSE journey: " << name << "🚀" << 
 endl;
     return 0;
 }
