@@ -2,6 +2,10 @@
 using namespace std;
 
 int main() {
-    cout << "Hello Vaibhav  - first Git Commit!" << endl;
+    string name;
+    cout << "Vaibhav";
+    cin >> name;
+    cout << "Welcom to CSE journey" << name << "🚀" << 
+endl;
     return 0;
 }
